@@ -1,8 +1,8 @@
 module.exports.array=
 [
     {
-        "name":"Ahmed",
-        "photo":"https://steamusercontent-a.akamaihd.net/ugc/845968728164682258/AC72BD7B20EDC2B75AAEA77206310928A536287A/",
+        "name":"Phil Swift",
+        "photo":"https://media.giphy.com/media/JGunlb6LbQlz2/giphy.gif",
         "scores":[
             5,
             1,
@@ -14,6 +14,54 @@ module.exports.array=
             5,
             4,
             1
+          ]
+      },
+      {
+        "name":"Billy Mays",
+        "photo":"https://media1.tenor.com/images/cbf642d6a9033e5953037624dd7882f0/tenor.gif?itemid=9592017",
+        "scores":[
+            4,
+            2,
+            3,
+            1,
+            2,
+            1,
+            2,
+            4,
+            2,
+            2
+          ]
+      },
+      {
+        "name":"Vince Shlomi",
+        "photo":"https://i.gifer.com/7Aaz.gif",
+        "scores":[
+            1,
+            1,
+            2,
+            1,
+            2,
+            3,
+            1,
+            4,
+            2,
+            1
+          ]
+      },
+      {
+        "name":"Ron Popeil",
+        "photo":"https://media.giphy.com/media/6q01IxmDXbaus/giphy.gif",
+        "scores":[
+            2,
+            3,
+            4,
+            1,
+            4,
+            4,
+            1,
+            2,
+            3,
+            5
           ]
       }
     ]
