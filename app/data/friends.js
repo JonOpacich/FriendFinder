@@ -1,0 +1,19 @@
+module.exports.array=
+[
+    {
+        "name":"Ahmed",
+        "photo":"https://steamusercontent-a.akamaihd.net/ugc/845968728164682258/AC72BD7B20EDC2B75AAEA77206310928A536287A/",
+        "scores":[
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      }
+    ]
