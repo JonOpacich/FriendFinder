@@ -1,6 +1,6 @@
 [Demo](https://youtu.be/ql8hTNxyg44)
 
-# Retail-CLI ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# Friend Finder Survey Web App ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 A full-stack application in which users take a questionnaire (based on the 'Big Five" personality theory) and get paired with their closest match within the database.
 
