@@ -23,7 +23,7 @@
 
   <div class="container">
 
-    <h2>The Big Five Friend Survey</h2>
+    <h1 class='display-2'>The Big Five Friend Survey</h1>
     <hr>
 
     <h3>
@@ -182,10 +182,10 @@
 
     <hr>
     <footer class="footer">
-        <p>
-          <a href="/api/friends">API Friends List</a> |
-          <a href="https://github.com/afhaque/friendfinder">GitHub Repo</a>
-        </p>
+      <p>
+        <a href="/api/friends">API Friends List</a> |
+        <a href="https://github.com/afhaque/friendfinder">GitHub Repo</a>
+      </p>
     </footer>
 
   </div>
@@ -214,6 +214,11 @@
     </div>
   </div>
   <style>
+    body {
+      background: url(https://images.unsplash.com/photo-1458682625221-3a45f8a844c7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f53bc37ff31a9c27b92bb869ccc05a5e&auto=format&fit=crop&w=1934&q=80) no-repeat fixed center;
+      font-family: Georgia, 'Times New Roman', Times, serif
+    }
+
     .container {
       -webkit-box-shadow: 10px 10px 58px -9px rgba(0, 0, 0, 0.75);
       -moz-box-shadow: 10px 10px 58px -9px rgba(0, 0, 0, 0.75);
@@ -230,10 +235,15 @@
       /* Chrome10-25,Safari5.1-6 */
       background: linear-gradient(to bottom, rgba(167, 199, 220, 1) 0%, rgba(133, 178, 211, 1) 100%);
       /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      border-style: groove;
+      border-color: antiquewhite;
     }
-    .footer{
-      background-color:whitesmoke;
+
+    .footer {
+      background-color: whitesmoke;
       z-index: 1;
+      border-radius: 10px;
+      padding: 0 40px;
     }
   </style>
   <script type="text/javascript">
